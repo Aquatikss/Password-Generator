@@ -1,3 +1,6 @@
+# THIS PROJECT HAS BEEN DISCONTINUED IN TURN FOR A GUI BASED PASSWORD GENERATOR.
+# SEE MORE AT: https://github.com/Aquatikss/Password-Generator-Redone/tree/main
+
 Password Generator
 A simple Python script to generate random passwords.
 
